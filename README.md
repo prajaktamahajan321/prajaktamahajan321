@@ -1,7 +1,25 @@
 <h1 align="center">Hi 👋, I'm Prajakta Mahajan</h1>
 <h3 align="center">Passionate and seasoned Transformations DEI Hands on Leader</h3>
 
-- 🔭 I’m currently working on **Engineering Excellence Initiative for faster quality code with informed Data Driven Continous Improvement with quality automations powered by Agile and Product mindset across markets org with customer centric approach**
+- 🔭 I’m a **Seasoned IT Technology Lean DEI Transformation Product leader with 21+ years of
+experience driving Excellence in Execution with scaled agile to enable Enterprise
+Business Value with Data Metrics based Global Productised Automated Solutions at
+Scale powered by Modern Tech Stack , Data strategies with Cloud Microservices Big
+Data Analytics and AI ML technologies along with Core Java J2EE for quality focused,
+efficient and faster deliveries using cloud and CI CD pipelines.**
+
+- 🔭 CORE COMPETENCIES **
+• Data Strategy & Architecture | Cloud Data Platforms (AWS/GCP/Azure)
+• Data Engineering at Scale | Real-Time & Batch Processing | Distributed Systems
+• Leadership & Org Scaling | Managing Managers | Cross-Geography Teams
+• Data Products | Product-Driven Analytics | BI & Self-Service Platforms
+• DevOps for Data | CI/CD | Monitoring | Observability | Data Lineage
+• Microservices | RESTful APIs | Event-Driven Systems
+• BI Tools: Tableau
+• Agile teams formed: 300 plus across Markets in Citi
+• Stakeholder Management | Senior Leadership Influence | C-Suite Engagement
+**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
